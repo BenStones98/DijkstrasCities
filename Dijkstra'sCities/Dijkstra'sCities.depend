@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1550460312 source:\\userfs\bts514\w2k\y3848937_algorithms_assessment\y3848937_algorithms_assessment\dijkstra'scities\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"resources.h"
+
+1550460270 \\userfs\bts514\w2k\y3848937_algorithms_assessment\y3848937_algorithms_assessment\dijkstra'scities\resources.h
+
+1550460312 source:\\userfs\bts514\w2k\y3848937_algorithms_assessment\y3848937_algorithms_assessment\dijkstra'scities\resources.c
+	<stdio.h>
+	<stdlib.h>
+	"resources.h"
+
